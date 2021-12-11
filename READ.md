@@ -1,3 +1,7 @@
 # Demo 2
 
-Some text
+Some textgit
+
+## Local development
+
+1. Open index.html in your browser.
